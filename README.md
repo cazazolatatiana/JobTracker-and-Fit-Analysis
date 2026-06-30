@@ -62,9 +62,9 @@ None of these were exotic problems. They were the ordinary kind that show up onc
 
 This repository is split into two parts, each with its own full technical README.
 
-**[JobTrack Extension]([cazazolatatiana/JobTracker_App](https://github.com/cazazolatatiana/JobTracker_App))** — the Chrome sidebar that captures job postings and logs decisions. Built with Plasmo. Covers the page-scraping strategy per job board, the Edge Functions it calls, and known limitations.
+**[JobTrack Extension](https://github.com/cazazolatatiana/JobTracker_App)** — the Chrome sidebar that captures job postings and logs decisions. Built with Plasmo. Covers the page-scraping strategy per job board, the Edge Functions it calls, and known limitations.
 
-**[JobTrack Dashboard]([cazazolatatiana/resume-road-map](https://github.com/cazazolatatiana/resume-road-map))** — the pipeline management interface. Built with TanStack Start, React, and Supabase. Covers the full database schema, the two-stage AI pipeline in detail, and setup instructions.
+**[JobTrack Dashboard](https://github.com/cazazolatatiana/resume-road-map)** — the pipeline management interface. Built with TanStack Start, React, and Supabase. Covers the full database schema, the two-stage AI pipeline in detail, and setup instructions.
 
 ## Stack
 
