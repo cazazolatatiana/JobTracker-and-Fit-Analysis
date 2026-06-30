@@ -62,9 +62,9 @@ None of these were exotic problems. They were the ordinary kind that show up onc
 
 This repository is split into two parts, each with its own full technical README.
 
-**[JobTrack Extension](../job-tracker-extension)** — the Chrome sidebar that captures job postings and logs decisions. Built with Plasmo. Covers the page-scraping strategy per job board, the Edge Functions it calls, and known limitations.
+**[JobTrack Extension](../JobTracker_App)** — the Chrome sidebar that captures job postings and logs decisions. Built with Plasmo. Covers the page-scraping strategy per job board, the Edge Functions it calls, and known limitations.
 
-**[JobTrack Dashboard](../job-tracker-dashboard)** — the pipeline management interface. Built with TanStack Start, React, and Supabase. Covers the full database schema, the two-stage AI pipeline in detail, and setup instructions.
+**[JobTrack Dashboard](../resume-road-map)** — the pipeline management interface. Built with TanStack Start, React, and Supabase. Covers the full database schema, the two-stage AI pipeline in detail, and setup instructions.
 
 ## Stack
 
